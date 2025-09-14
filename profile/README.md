@@ -21,7 +21,7 @@ Our goal is to provide the community with stable, functional, and modern firmwar
 | :--- | :--- | :--- |
 | Samsung Galaxy A31 | `a31` | `MT6768` |
 
-**Important:** All developments are intended **only** for the **Samsung Galaxy A31**) model.
+**Important:** All developments are intended **only** for the **Samsung Galaxy A31** model.
 
 ## 🛠️ Our Projects
 

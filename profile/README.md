@@ -58,7 +58,6 @@ You can contribute to the project in the following ways:
 *   **Testing:** Download our builds, test them, and report bugs via [Issues](https://github.com/SM-A315F-Dev/android_device_samsung_a31/issues).
 *   **Development:** Have experience with Android development? Fork our repositories, make changes, and send Pull Requests!
 *   **Documentation:** Help us improve documentation and instructions.
-*   **Donations:** If you like our work, you can support us financially to help cover costs for build servers, etc. (Donation link, if you plan to have one).
 
 ## ⚠️ Disclaimer
 

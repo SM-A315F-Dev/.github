@@ -33,7 +33,7 @@ Instructions for building the firmware from source.
 
 1.  **Initialize the repository:**
     ```bash
-    repo init -u https://github.com/SM-A315F-Dev/manifest.git -b <branch_name>
+    repo init -u https://github.com/SM-A315F-Dev/dtmanifest.git -b <branch_name>
     # For example, for LineageOS 20:
     # repo init -u https://github.com/SM-A315F-Dev/manifest.git -b lineage-20
     ```
